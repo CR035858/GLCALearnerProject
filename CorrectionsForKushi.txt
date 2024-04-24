@@ -1,0 +1,15 @@
+1) Modified content of servlet-context.xml
+
+2) In pom.xml added dependencies as mentioned in the file(pom.xml)
+
+3) Changed Codes in PersonDAOImpl file
+
+4) Added @Autowired in all places for Injection
+
+5) Modified Controller
+
+6) Added JSP files without Styling(Tag libraries were not functioning in old file hence changed)
+[You can add styling, if needed]
+
+Please do not go with single JSP file structure,
+always better to have 2 files 1 for the list and 2nd one for the form 
